@@ -1,3 +1,7 @@
+# GUINDO BADARA ALIOU 2100000017 MASTER SDIA FSM
+
+
+
 # Activité Pratique 2 – Gestion Hospitalière avec Spring Boot
 Objectif du Projet
 Ce projet a pour but de mettre en pratique les concepts fondamentaux de Spring Boot à travers la création d’une application de gestion hospitalière. L’activité consiste à modéliser des entités comme Patient, Médecin, Rendez-vous, Consultation, ainsi que la gestion des utilisateurs et rôles, en intégrant Spring Data JPA, Lombok, une base H2 dans un premier temps, puis MySQL, avec une interface de gestion simplifiée.
